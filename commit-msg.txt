@@ -1,0 +1,3 @@
+Fix NC name field - use full_name instead of name
+
+This should resolve the 404 error on Vercel deployment.
